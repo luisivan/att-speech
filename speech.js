@@ -1,3 +1,9 @@
+/*
+* Copyright (c) 2012 Michael Owens. Licensed via The MIT License.
+* Copyright (c) 2014 Luis Iván Cuende.
+*
+* Browser library for the AT&T Speech API
+*/
 'use strict';
 
 /*jshint maxparams:false */
