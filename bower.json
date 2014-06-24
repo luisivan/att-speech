@@ -1,0 +1,25 @@
+{
+  "name": "att-speech",
+  "version": "0.0.1",
+  "authors": [
+    "Luis Iván <me@luisivan.net>"
+  ],
+  "description": "Browser library for the AT&T Speech API",
+  "main": "speech.js",
+  "keywords": [
+    "att",
+    "speech",
+    "api",
+    "speech",
+    "to",
+    "text"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
